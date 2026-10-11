@@ -29,10 +29,9 @@ fraud_detection_analysis/
 ├── notebook/
 │   ├── basic_data_preprocessing.ipynb
 │   ├── EDA.ipynb
+|   ├── model_building.ipynb
 │
-├── src/
-│   ├── model_building.ipynb
-|      
+├── src/      
 ├── .venv/
 ├──  best_model.pkl
 ├── app.py
